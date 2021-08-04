@@ -1,0 +1,89 @@
+.boxes{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 1200px;
+    margin: 0 auto;
+}
+.box{
+    padding: 20px;
+    margin:0px 10px;
+    color:white;
+    background-color: steelblue;
+    border: none;
+    font-size: 20px;
+}
+button{
+}
+.white-btn{
+    position: relative;
+    height: 200px;
+    width: 50px;
+    outline-width: 0;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+}
+.white-btn:hover{
+    background-color: rgba(231, 231, 231, 0.671);
+}
+.black-btn{
+    position: fixed;
+    height: 125px;
+    width: 33px;
+    background-color: black;
+    color:white;
+    border: none;
+}
+.black-btn:hover{
+    background-color: rgb(46, 46, 46);
+}
+.a-3{
+    transform: translateX(-1165px);
+}
+.c-3{
+    transform: translateX(-1070px);
+}
+.d-3{
+    transform: translateX(-1015px);
+}
+.f-3{
+    transform: translateX(-915px);
+}
+.g-3{
+    transform: translateX(-865px);
+}
+.a-4{
+    transform: translateX(-815px);
+}
+.c-4{
+    transform: translateX(-715px);
+}
+.d-4{
+    transform: translateX(-665px);
+}
+.f-4{
+    transform: translateX(-565px);
+}
+.g-4{
+    transform: translateX(-515px);
+}
+.a-5{
+    transform: translateX(-465px);
+}
+.c-5{
+    transform: translateX(-365px);
+}
+.d-5{
+    transform: translateX(-315px);
+}
+.f-5{
+    transform: translateX(-215px);
+}
+.g-5{
+    transform: translateX(-165px);
+}
+.a-6{
+    transform: translateX(-115px);
+}
